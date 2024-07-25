@@ -92,6 +92,3 @@ iOSInjectionProject/
 =======
 *.xcuserstate
 .DS_Store
-*.xcuserstate
-.DS_Store
->>>>>>> b18cdad (Remove UserInterfaceState.xcuserstate and .DS_Store files and add to .gitignore)
